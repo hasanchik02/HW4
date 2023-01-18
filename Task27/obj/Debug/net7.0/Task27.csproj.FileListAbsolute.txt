@@ -1,0 +1,15 @@
+D:\vsc\C#\HW4_sem\Task27\bin\Debug\net7.0\Task27.exe
+D:\vsc\C#\HW4_sem\Task27\bin\Debug\net7.0\Task27.deps.json
+D:\vsc\C#\HW4_sem\Task27\bin\Debug\net7.0\Task27.runtimeconfig.json
+D:\vsc\C#\HW4_sem\Task27\bin\Debug\net7.0\Task27.dll
+D:\vsc\C#\HW4_sem\Task27\bin\Debug\net7.0\Task27.pdb
+D:\vsc\C#\HW4_sem\Task27\obj\Debug\net7.0\Task27.csproj.AssemblyReference.cache
+D:\vsc\C#\HW4_sem\Task27\obj\Debug\net7.0\Task27.GeneratedMSBuildEditorConfig.editorconfig
+D:\vsc\C#\HW4_sem\Task27\obj\Debug\net7.0\Task27.AssemblyInfoInputs.cache
+D:\vsc\C#\HW4_sem\Task27\obj\Debug\net7.0\Task27.AssemblyInfo.cs
+D:\vsc\C#\HW4_sem\Task27\obj\Debug\net7.0\Task27.csproj.CoreCompileInputs.cache
+D:\vsc\C#\HW4_sem\Task27\obj\Debug\net7.0\Task27.dll
+D:\vsc\C#\HW4_sem\Task27\obj\Debug\net7.0\refint\Task27.dll
+D:\vsc\C#\HW4_sem\Task27\obj\Debug\net7.0\Task27.pdb
+D:\vsc\C#\HW4_sem\Task27\obj\Debug\net7.0\Task27.genruntimeconfig.cache
+D:\vsc\C#\HW4_sem\Task27\obj\Debug\net7.0\ref\Task27.dll
